@@ -1,13 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 authors:
-  - family-names: Dinh
-    given-names: Dao Lan Vy 
-    orcid: https://orcid.org/0009−0009−7086−8570
- - family-names: Tran
-    given-names: Ngoc Hang 
-    orcid: https://orcid.org/0009−0003−6477−2974
- - family-names: Vo 
-    given-names: Huyen Khanh May 
-    orcid: https://orcid.org/0009−0002−9419−6229
+  - family-names: "Dinh"
+    given-names: "Dao Lan Vy" 
+    orcid: "https://orcid.org/0009−0009−7086−8570"
+ - family-names: "Tran"
+    given-names: "Ngoc Hang"
+    orcid: "https://orcid.org/0009−0003−6477−2974"
+ - family-names: "Vo" 
+    given-names: "Huyen Khanh May"
+    orcid: "https://orcid.org/0009−0002−9419−6229"
 title: "RSI combination and  kelly criterion"
+URL: "https://github.com/embiekhochiu/stock-algo"
